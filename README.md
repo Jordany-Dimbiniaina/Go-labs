@@ -1,5 +1,9 @@
 # Go-labs
 Labs for system design and Go code
+---
+![Talk is cheap show me the code](./linus.jpeg)
+
+# Talk is cheap! Show me the code
 
 Yeah, AI writes most of the code now—that’s the current trend and revolution. But if you don't master the code, you'll sink quickly, and maintenance will cost a fortune.
 
