@@ -12,4 +12,4 @@ People on social media talk nonstop about marketing and personal branding to sel
 
 This repo isn't here to fight the hype, but to remind us of the value of raw code. It’s all technical here. 
 
-Don’t take it too seriously though, I’m just messing around—it’s just a place for me to practice **Go** and have **fun**."
+Don’t take it too seriously though, I’m just messing around—it’s just a place for me to practice **Go** and have **fun**.
